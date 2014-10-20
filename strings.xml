@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mortgage Calculator</string>
+    
+    <string name="debuggable">true</string>
+    
+    <string name="enter_borrowed_amt">Borrowed Amount </string>
+    
+    <string name="choose_int_rate">Interest Rate </string>
+    
+    <string name="chosen_rate">rate</string>
+    
+    <string name="choose_term">Loan Term </string>
+    <string name="yr15">15 Years </string>
+    <string name="yr20">20 Years </string>
+    <string name="yr30">30 Years </string>
+     
+    <string name="check_tni">Tax and Insurance </string>
+    
+    <string name="calculate">Calculate Monthly Payment </string>
+
+    <string name="monthly_pay">0.0</string>
+    
+    <string name="action_settings">Settings</string>
+
+</resources>
